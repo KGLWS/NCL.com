@@ -4,8 +4,5 @@ const Base = function newBase(){
     this.navigateToHome = function newNavigateToHome(){
         browser.get(this.homeUrl);
     };
-
-
-
 }
 module.exports=new Base();

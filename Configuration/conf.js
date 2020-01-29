@@ -10,12 +10,9 @@ exports.config = {
     browserName: 'chrome'
   },
 
-  //specs: ['../Tests/BankManagerSimple.spec.js'], 
-
   suites: {
-    // smoke: ['../Tests/BankManagerSimple.spec.js', '../Tests/demo.spec.js'],
-    // regression: ['../Tests/*.spec.js']
-    regression: ['../Tests/Scenario3.spec.js']
+    smoke: ['../Tests/Scenario3.spec.js']
+    //regression: ['../Tests/*.spec.js']
   },
 
   onPrepare: function () {
