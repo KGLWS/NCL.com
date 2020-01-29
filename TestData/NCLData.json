@@ -1,0 +1,23 @@
+{
+
+    "URLs": {
+        "homeUrl": "https://www.ncl.com/"
+    },
+
+    "alaskaCruises": [
+        {"alaska$":"Icy Strait Point, Alaska"},
+        {"alaska$":"Juneau, Alaska"},
+        {"alaska$":"Ketchikan, Alaska"},
+        {"alaska$":"Seward, Alaska"},
+        {"alaska$":"Sitka, Alaska"},
+        {"alaska$":"Skagway, Alaska"},
+        {"alaska$":"Victoria, British Columbia"}
+    
+    ]
+   
+    }
+
+
+
+
+
